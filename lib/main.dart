@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'drawer_screen.dart';
-import 'home_screen.dart';
-import 'configuration.dart';
+import 'package:hidden_drrawer_pet_ui/presentation/animal_selected_screen.dart';
+import 'presentation/drawer_screen.dart';
+import 'presentation/home_screen.dart';
+import 'settings/configuration.dart';
 
 void main() {
   runApp(MyApp());
